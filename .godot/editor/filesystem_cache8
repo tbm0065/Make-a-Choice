@@ -1,0 +1,464 @@
+2a60927148abd1d33b818b535e306557
+::res://::1706378083
+Arrow.gd::GDScript::-1::1685385811::0::1::::<>AnimatedSprite2D<>::
+Boomerang.gd::GDScript::-1::1685385798::0::1::::<>AnimatedSprite2D<>::
+Button2.gd::GDScript::-1::1685587947::0::1::::<>Button<>::
+Button.gd::GDScript::-1::1685583105::0::1::::<>Button<>::
+door.tscn::PackedScene::2103699482091469245::1685406782::0::1::::<><>::uid://e7hgig6vjhqa<>res://Left Door.gd<>res://Right Door.gd
+export_presets.cfg::TextFile::-1::1685658554::0::1::::<><>::
+Flame.gd::GDScript::-1::1686368254::0::1::::<>AnimatedSprite2D<>::
+Global Variables.gd::GDScript::-1::1685588980::0::1::::<>Node<>::
+Horizontal Walls.gd::GDScript::-1::1685586433::0::1::::<>Area2D<>::
+icon.svg::CompressedTexture2D::7837041750771879892::1683395056::1683395064::1::::<><>::
+Leave Area.gd::GDScript::-1::1685405760::0::1::::<>Area2D<>::
+Leave Level 1.gd::GDScript::-1::1685408960::0::1::::<>Area2D<>::
+Leaving Level 2.gd::GDScript::-1::1685499940::0::1::::<>Area2D<>::
+Leaving Level 3.gd::GDScript::-1::1685582100::0::1::::<>Area2D<>::
+Leaving Level 4.gd::GDScript::-1::1685583962::0::1::::<>Area2D<>::
+Leaving Level 5.gd::GDScript::-1::1685586853::0::1::::<>Area2D<>::
+Leaving Start Area.gd::GDScript::-1::1685408960::0::1::::<>Area2D<>::
+Left Door.gd::GDScript::-1::1685387672::0::1::::<>AnimatedSprite2D<>::
+level_1.gd::GDScript::-1::1685406660::0::1::::<>Node2D<>::
+level_1.tscn::PackedScene::7374018893861506629::1685587583::0::1::::<><>::uid://cmfjqtvmhhwwj<>res://level_1.gd<>res://RoomItems.gd<>res://Horizontal Walls.gd<>uid://ch8qvq18b5ptd<>res://Vertical Walls.gd<>uid://48bvgk67jyyf<>uid://cgmg8grpw4f0g<>res://Leave Level 1.gd
+level_2.gd::GDScript::-1::1685408726::0::1::::<>Node2D<>::
+level_2.tscn::PackedScene::8798173537816060061::1685587993::0::1::::<><>::uid://cmfjqtvmhhwwj<>res://level_2.gd<>uid://ch8qvq18b5ptd<>res://RoomItems.gd<>res://Horizontal Walls.gd<>res://Vertical Walls.gd<>uid://48bvgk67jyyf<>uid://cgmg8grpw4f0g<>res://Leaving Level 2.gd
+level_3.gd::GDScript::-1::1685502115::0::1::::<>Node2D<>::
+level_3.tscn::PackedScene::4917080732579840629::1685587584::0::1::::<><>::res://level_3.gd<>uid://cmfjqtvmhhwwj<>uid://48bvgk67jyyf<>uid://ch8qvq18b5ptd<>uid://cgmg8grpw4f0g<>res://Horizontal Walls.gd<>res://Vertical Walls.gd<>res://RoomItems.gd<>res://Leaving Level 3.gd
+level_4.gd::GDScript::-1::1685582260::0::1::::<>Node2D<>::
+level_4.tscn::PackedScene::6755515782595108272::1685587584::0::1::::<><>::uid://cmfjqtvmhhwwj<>res://level_4.gd<>uid://ch8qvq18b5ptd<>uid://48bvgk67jyyf<>uid://cgmg8grpw4f0g<>res://Horizontal Walls.gd<>res://Vertical Walls.gd<>res://RoomItems.gd<>res://Leaving Level 4.gd
+level_5.gd::GDScript::-1::1685586555::0::1::::<>Node2D<>::
+level_5.tscn::PackedScene::6490330953739321708::1685587584::0::1::::<><>::res://level_5.gd<>uid://cmfjqtvmhhwwj<>uid://cgmg8grpw4f0g<>res://Horizontal Walls.gd<>res://Vertical Walls.gd<>uid://48bvgk67jyyf<>uid://ch8qvq18b5ptd<>res://RoomItems.gd<>res://Leaving Level 5.gd
+MainTorches.gd::GDScript::-1::1685587484::0::1::::<>Node2D<>::
+Right Door.gd::GDScript::-1::1685387686::0::1::::<>AnimatedSprite2D<>::
+RoomItems.gd::GDScript::-1::1685586474::0::1::::<>Node2D<>::
+Select Item Room.gd::GDScript::-1::1685385798::0::1::::<>Node2D<>::
+TestRoom.gd::GDScript::-1::1685387940::0::1::::<>Node2D<>::
+TestRoom.tscn::PackedScene::6800583236545713636::1686368256::0::1::::<><>::uid://cmfjqtvmhhwwj<>res://TestRoom.gd<>uid://ch8qvq18b5ptd<>res://RoomItems.gd<>res://Horizontal Walls.gd<>res://Vertical Walls.gd<>uid://cgmg8grpw4f0g<>uid://48bvgk67jyyf<>res://Leave Area.gd
+test_room_lv_2.tscn::PackedScene::7954642829231249394::1686368256::0::1::::<><>::uid://cmfjqtvmhhwwj<>res://Select Item Room.gd<>uid://ch8qvq18b5ptd<>res://Boomerang.gd<>uid://gj1rw4x53xff<>uid://db5ohscqk7vqh<>res://Arrow.gd<>res://RoomItems.gd<>res://Weapon Instructions.gd<>res://Horizontal Walls.gd<>res://Vertical Walls.gd<>uid://48bvgk67jyyf<>res://Leaving Start Area.gd
+thanks_for_playing.tscn::PackedScene::4887715489650236075::1686368256::0::1::::<><>::uid://cmfjqtvmhhwwj<>uid://cgmg8grpw4f0g<>uid://48bvgk67jyyf<>res://Button.gd<>res://Button2.gd
+TorchCollison.gd::GDScript::-1::1685315501::0::1::::<>Area2D<>::
+Torches.tscn::PackedScene::5219170537532427220::1685406782::0::1::::<><>::res://MainTorches.gd<>uid://c0hrqvfwhik3b<>uid://q7dtuec0s0fg<>res://Flame.gd<>res://TorchCollison.gd
+Vertical Walls.gd::GDScript::-1::1685586439::0::1::::<>Area2D<>::
+Walls.gd::GDScript::-1::1684975972::0::1::::<>Area2D<>::
+Weapon Instructions.gd::GDScript::-1::1685581046::0::1::::<>Label<>::
+::res://2D Pixel Dungeon Asset Pack v2.0/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/::1683395095
+Dungeon_Character_at.png::CompressedTexture2D::8058285440215443797::1683395094::1683395095::1::::<><>::
+Dungeon_Tileset_at.png::CompressedTexture2D::5626005436389692341::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/character and tileset/::1683395095
+demonstration.png::CompressedTexture2D::4096694359805430769::1683395094::1683395095::1::::<><>::
+Dungeon_Character.png::CompressedTexture2D::4604911284035294735::1683395094::1683395095::1::::<><>::
+Dungeon_Character_2.png::CompressedTexture2D::570797569025255028::1683395094::1683395095::1::::<><>::
+Dungeon_Tileset.png::CompressedTexture2D::347251627287388212::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skeleton1/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skeleton1/v1/::1683395095
+skeleton_v1_1.png::CompressedTexture2D::6367103289513070690::1683395094::1683395095::1::::<><>::
+skeleton_v1_2.png::CompressedTexture2D::3734492441646223608::1683395094::1683395095::1::::<><>::
+skeleton_v1_3.png::CompressedTexture2D::4090184472458445590::1683395094::1683395095::1::::<><>::
+skeleton_v1_4.png::CompressedTexture2D::3434061877166100859::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skeleton1/v2/::1683395095
+skeleton_v2_1.png::CompressedTexture2D::2098528753664834806::1683395094::1683395095::1::::<><>::
+skeleton_v2_2.png::CompressedTexture2D::2641089138863458203::1683395094::1683395095::1::::<><>::
+skeleton_v2_3.png::CompressedTexture2D::5424805856551328510::1683395094::1683395095::1::::<><>::
+skeleton_v2_4.png::CompressedTexture2D::5272733711791403810::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skeleton2/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skeleton2/v1/::1683395095
+skeleton2_v1_1.png::CompressedTexture2D::9147116575084819608::1683395094::1683395095::1::::<><>::
+skeleton2_v1_2.png::CompressedTexture2D::6972220522732844471::1683395094::1683395095::1::::<><>::
+skeleton2_v1_3.png::CompressedTexture2D::3306318655824660745::1683395094::1683395095::1::::<><>::
+skeleton2_v1_4.png::CompressedTexture2D::1142432671244594721::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skeleton2/v2/::1683395095
+skeleton2_v2_1.png::CompressedTexture2D::372923489331294567::1683395094::1683395095::1::::<><>::
+skeleton2_v2_2.png::CompressedTexture2D::5217699426980138732::1683395094::1683395095::1::::<><>::
+skeleton2_v2_3.png::CompressedTexture2D::2929603497953294657::1683395094::1683395095::1::::<><>::
+skeleton2_v2_4.png::CompressedTexture2D::6830034593511265707::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skull/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skull/v1/::1683395095
+skull_v1_1.png::CompressedTexture2D::1028292417287747652::1683395094::1683395095::1::::<><>::
+skull_v1_2.png::CompressedTexture2D::1065860410337240465::1683395094::1683395095::1::::<><>::
+skull_v1_3.png::CompressedTexture2D::1419784724578236330::1683395094::1683395095::1::::<><>::
+skull_v1_4.png::CompressedTexture2D::3008495852702858633::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skull/v2/::1683395095
+skull_v2_1.png::CompressedTexture2D::7356534462817717545::1683395094::1683395095::1::::<><>::
+skull_v2_2.png::CompressedTexture2D::7341856307519888149::1683395094::1683395095::1::::<><>::
+skull_v2_3.png::CompressedTexture2D::2841448032337585296::1683395094::1683395095::1::::<><>::
+skull_v2_4.png::CompressedTexture2D::7343315993030884358::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/vampire/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/vampire/v1/::1683395095
+vampire_v1_1.png::CompressedTexture2D::3130068246281071258::1683395094::1683395095::1::::<><>::
+vampire_v1_2.png::CompressedTexture2D::5654333039369266591::1683395094::1683395095::1::::<><>::
+vampire_v1_3.png::CompressedTexture2D::2314990449860911830::1683395094::1683395095::1::::<><>::
+vampire_v1_4.png::CompressedTexture2D::215789000068650287::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/vampire/v2/::1683395095
+vampire_v2_1.png::CompressedTexture2D::3564097012878466666::1683395094::1683395095::1::::<><>::
+vampire_v2_2.png::CompressedTexture2D::8537687608444146694::1683395094::1683395095::1::::<><>::
+vampire_v2_3.png::CompressedTexture2D::1230576543345330844::1683395094::1683395095::1::::<><>::
+vampire_v2_4.png::CompressedTexture2D::1505913836078432038::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest1/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest1/v1/::1683395095
+priest1_v1_1.png::CompressedTexture2D::4959661800123613813::1683395094::1683395095::1::::<><>::
+priest1_v1_2.png::CompressedTexture2D::2695024714441972411::1683395094::1683395095::1::::<><>::
+priest1_v1_3.png::CompressedTexture2D::2326098877541701797::1683395094::1683395095::1::::<><>::
+priest1_v1_4.png::CompressedTexture2D::4420497173257099933::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest1/v2/::1683395095
+priest1_v2_1.png::CompressedTexture2D::5561287520145871728::1683395094::1683395095::1::::<><>::
+priest1_v2_2.png::CompressedTexture2D::7477220371004766419::1683395094::1683395095::1::::<><>::
+priest1_v2_3.png::CompressedTexture2D::5218344940223725754::1683395094::1683395095::1::::<><>::
+priest1_v2_4.png::CompressedTexture2D::3395035758186632113::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest2/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest2/v1/::1683395095
+priest2_v1_1.png::CompressedTexture2D::1555898482361266600::1683395094::1683395095::1::::<><>::
+priest2_v1_2.png::CompressedTexture2D::5039390967256254820::1683395094::1683395095::1::::<><>::
+priest2_v1_3.png::CompressedTexture2D::1584713979735885517::1683395094::1683395095::1::::<><>::
+priest2_v1_4.png::CompressedTexture2D::8025294117364580964::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest2/v2/::1683395095
+priest2_v2_1.png::CompressedTexture2D::6147723504432417283::1683395094::1683395095::1::::<><>::
+priest2_v2_2.png::CompressedTexture2D::8290905811253889450::1683395094::1683395095::1::::<><>::
+priest2_v2_3.png::CompressedTexture2D::1380728398919454928::1683395094::1683395095::1::::<><>::
+priest2_v2_4.png::CompressedTexture2D::4981417980454153124::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest3/::1683395094
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest3/v1/::1683395095
+priest3_v1_1.png::CompressedTexture2D::2545549496904884138::1683395094::1683395095::1::::<><>::
+priest3_v1_2.png::CompressedTexture2D::9190868233293585989::1683395094::1683395095::1::::<><>::
+priest3_v1_3.png::CompressedTexture2D::6674580892670219948::1683395094::1683395095::1::::<><>::
+priest3_v1_4.png::CompressedTexture2D::2534935556659473011::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest3/v2/::1683395095
+priest3_v2_1.png::CompressedTexture2D::8560141350153371547::1683395094::1683395095::1::::<><>::
+priest3_v2_2.png::CompressedTexture2D::7104275968123140133::1683395094::1683395095::1::::<><>::
+priest3_v2_3.png::CompressedTexture2D::8494564456538198818::1683395094::1683395095::1::::<><>::
+priest3_v2_4.png::CompressedTexture2D::7742630193036784400::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/interface/::1683395095
+arrow_1.png::CompressedTexture2D::204409786091629143::1683395094::1683395095::1::::<><>::
+arrow_2.png::CompressedTexture2D::8800339617187713658::1683395094::1683395095::1::::<><>::
+arrow_3.png::CompressedTexture2D::7775995109352885654::1683395094::1683395095::1::::<><>::
+arrow_4.png::CompressedTexture2D::2492112884771479017::1683395094::1683395095::1::::<><>::
+square_left_1.png::CompressedTexture2D::8210588943143312964::1683395094::1683395095::1::::<><>::
+square_left_2.png::CompressedTexture2D::1564021445577501010::1683395094::1683395095::1::::<><>::
+square_left_2_1.png::CompressedTexture2D::3963095461133985551::1683395094::1683395095::1::::<><>::
+square_left_2_2.png::CompressedTexture2D::3372193715973111565::1683395094::1683395095::1::::<><>::
+square_left_2_3.png::CompressedTexture2D::845300747548245128::1683395094::1683395095::1::::<><>::
+square_left_2_4.png::CompressedTexture2D::389697565543690692::1683395094::1683395095::1::::<><>::
+square_left_3.png::CompressedTexture2D::3023322767243641526::1683395094::1683395095::1::::<><>::
+square_left_4.png::CompressedTexture2D::4825347876261819991::1683395094::1683395095::1::::<><>::
+square_right_1.png::CompressedTexture2D::582083582603054538::1683395094::1683395095::1::::<><>::
+square_right_2.png::CompressedTexture2D::5447697364778543267::1683395094::1683395095::1::::<><>::
+square_right_2_1.png::CompressedTexture2D::8509264363714254702::1683395094::1683395095::1::::<><>::
+square_right_2_2.png::CompressedTexture2D::8488115573332061176::1683395094::1683395095::1::::<><>::
+square_right_2_3.png::CompressedTexture2D::5421721665965221105::1683395094::1683395095::1::::<><>::
+square_right_2_4.png::CompressedTexture2D::2580403443597284746::1683395094::1683395095::1::::<><>::
+square_right_3.png::CompressedTexture2D::4797380426439831137::1683395094::1683395095::1::::<><>::
+square_right_4.png::CompressedTexture2D::929113483890972784::1683395094::1683395095::1::::<><>::
+square_up_down_1.png::CompressedTexture2D::8988741854628473807::1683395094::1683395095::1::::<><>::
+square_up_down_2.png::CompressedTexture2D::6840678036819293194::1683395094::1683395095::1::::<><>::
+square_up_down_3.png::CompressedTexture2D::6686220311519626003::1683395094::1683395095::1::::<><>::
+square_up_down_4.png::CompressedTexture2D::300555412331908243::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/::1683395095
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/arrow/::1683395095
+arrow_1.png::CompressedTexture2D::8847103347548631380::1683395094::1683395095::1::::<><>::
+arrow_2.png::CompressedTexture2D::534426440543274423::1683395094::1683395095::1::::<><>::
+arrow_3.png::CompressedTexture2D::5335262322123734188::1683395094::1683395095::1::::<><>::
+arrow_4.png::CompressedTexture2D::5269268890677962677::1683395094::1683395095::1::::<><>::
+Just_arrow.png::CompressedTexture2D::7292245715046717723::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/box_1/::1685312570
+box_1_1.png::CompressedTexture2D::1762914820194736593::1683395094::1683395095::1::::<><>::
+box_1_2.png::CompressedTexture2D::6543074975918574097::1683395094::1683395095::1::::<><>::
+box_1_3.png::CompressedTexture2D::645600843558634532::1683395094::1683395095::1::::<><>::
+box_1_4.png::CompressedTexture2D::6751260125692962487::1683395094::1683395095::1::::<><>::
+flamme.png::CompressedTexture2D::1189298724172159732::1685312570::1685312525::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/box_2/::1683395095
+box_2_1.png::CompressedTexture2D::7120431704088699812::1683395094::1683395095::1::::<><>::
+box_2_2.png::CompressedTexture2D::6333645745022815054::1683395094::1683395095::1::::<><>::
+box_2_3.png::CompressedTexture2D::534686046618007492::1683395094::1683395095::1::::<><>::
+box_2_4.png::CompressedTexture2D::973651180987009720::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/chest/::1683395095
+chest_1.png::CompressedTexture2D::1239873882749582321::1683395094::1683395095::1::::<><>::
+chest_2.png::CompressedTexture2D::987813104096582260::1683395094::1683395095::1::::<><>::
+chest_3.png::CompressedTexture2D::1212734306254644330::1683395094::1683395095::1::::<><>::
+chest_4.png::CompressedTexture2D::2631345339037801651::1683395094::1683395095::1::::<><>::
+chest_open_1.png::CompressedTexture2D::4352148763199609490::1683395094::1683395095::1::::<><>::
+chest_open_2.png::CompressedTexture2D::6926898641797839846::1683395094::1683395095::1::::<><>::
+chest_open_3.png::CompressedTexture2D::8311652762133032610::1683395094::1683395095::1::::<><>::
+chest_open_4.png::CompressedTexture2D::3846233149400108076::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/coin/::1683395095
+coin_1.png::CompressedTexture2D::3113915693296236974::1683395094::1683395095::1::::<><>::
+coin_2.png::CompressedTexture2D::555486089001515503::1683395094::1683395095::1::::<><>::
+coin_3.png::CompressedTexture2D::8271023484117423302::1683395094::1683395095::1::::<><>::
+coin_4.png::CompressedTexture2D::2801809236674499267::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flag/::1683395095
+flag_1.png::CompressedTexture2D::8699159458213275059::1683395094::1683395095::1::::<><>::
+flag_2.png::CompressedTexture2D::2018050334958377895::1683395094::1683395095::1::::<><>::
+flag_3.png::CompressedTexture2D::869618009232287136::1683395094::1683395095::1::::<><>::
+flag_4.png::CompressedTexture2D::7547027132954115933::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/::1683395095
+flamethrower_1_1.png::CompressedTexture2D::2629333659697113802::1683395094::1683395095::1::::<><>::
+flamethrower_1_2.png::CompressedTexture2D::4975573400036419584::1683395094::1683395095::1::::<><>::
+flamethrower_1_3.png::CompressedTexture2D::2661009379489301829::1683395094::1683395095::1::::<><>::
+flamethrower_1_4.png::CompressedTexture2D::2432103727968102402::1683395094::1683395095::1::::<><>::
+flamethrower_2_1.png::CompressedTexture2D::8017574928914181296::1683395094::1683395095::1::::<><>::
+flamethrower_2_2.png::CompressedTexture2D::89316468658330550::1683395094::1683395095::1::::<><>::
+flamethrower_2_3.png::CompressedTexture2D::6689238293129932554::1683395094::1683395095::1::::<><>::
+flamethrower_2_4.png::CompressedTexture2D::4533537454206266146::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/::1683395095
+flasks_1_1.png::CompressedTexture2D::116333231629024537::1683395094::1683395095::1::::<><>::
+flasks_1_2.png::CompressedTexture2D::6324905588528451915::1683395094::1683395095::1::::<><>::
+flasks_1_3.png::CompressedTexture2D::3706548605370666582::1683395094::1683395095::1::::<><>::
+flasks_1_4.png::CompressedTexture2D::1474940750555094060::1683395094::1683395095::1::::<><>::
+flasks_2_1.png::CompressedTexture2D::2026757922293688267::1683395094::1683395095::1::::<><>::
+flasks_2_2.png::CompressedTexture2D::1365381439907393243::1683395094::1683395095::1::::<><>::
+flasks_2_3.png::CompressedTexture2D::5610312695116195115::1683395094::1683395095::1::::<><>::
+flasks_2_4.png::CompressedTexture2D::4418459952312434064::1683395094::1683395095::1::::<><>::
+flasks_3_1.png::CompressedTexture2D::3180821651076973266::1683395094::1683395095::1::::<><>::
+flasks_3_2.png::CompressedTexture2D::1347932557242177104::1683395094::1683395095::1::::<><>::
+flasks_3_3.png::CompressedTexture2D::1991685945043957165::1683395094::1683395095::1::::<><>::
+flasks_3_4.png::CompressedTexture2D::1635073287170445964::1683395094::1683395095::1::::<><>::
+flasks_4_1.png::CompressedTexture2D::2605120068263999764::1683395094::1683395095::1::::<><>::
+flasks_4_2.png::CompressedTexture2D::4428747475372354546::1683395094::1683395095::1::::<><>::
+flasks_4_3.png::CompressedTexture2D::3056789547821430579::1683395094::1683395095::1::::<><>::
+flasks_4_4.png::CompressedTexture2D::6299641202149974910::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/keys/::1683395095
+keys_1_1.png::CompressedTexture2D::7889810590963896289::1683395094::1683395095::1::::<><>::
+keys_1_2.png::CompressedTexture2D::5652705200547702601::1683395094::1683395095::1::::<><>::
+keys_1_3.png::CompressedTexture2D::7343146911721765873::1683395094::1683395095::1::::<><>::
+keys_1_4.png::CompressedTexture2D::5218973511326567110::1683395094::1683395095::1::::<><>::
+keys_2_1.png::CompressedTexture2D::1286308436567155675::1683395094::1683395095::1::::<><>::
+keys_2_2.png::CompressedTexture2D::1151014458640672535::1683395094::1683395095::1::::<><>::
+keys_2_3.png::CompressedTexture2D::5588094615707323600::1683395094::1683395095::1::::<><>::
+keys_2_4.png::CompressedTexture2D::2889226514975604825::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/mini_box_1/::1683395095
+mini_box_1_1.png::CompressedTexture2D::4947975220369109933::1683395094::1683395095::1::::<><>::
+mini_box_1_2.png::CompressedTexture2D::3616048002363994895::1683395094::1683395095::1::::<><>::
+mini_box_1_3.png::CompressedTexture2D::8110737888219026361::1683395094::1683395095::1::::<><>::
+mini_box_1_4.png::CompressedTexture2D::2388539410754772333::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/mini_box_2/::1683395095
+mini_box_2_1.png::CompressedTexture2D::8905462573223395478::1683395094::1683395095::1::::<><>::
+mini_box_2_2.png::CompressedTexture2D::4979272490739897671::1683395094::1683395095::1::::<><>::
+mini_box_2_3.png::CompressedTexture2D::2353478603064550188::1683395094::1683395095::1::::<><>::
+mini_box_2_4.png::CompressedTexture2D::2909330133099209277::1683395094::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/mini_chest/::1683395095
+mini_chest_1.png::CompressedTexture2D::4372490581585794498::1683395094::1683395095::1::::<><>::
+mini_chest_2.png::CompressedTexture2D::129982904814521439::1683395094::1683395095::1::::<><>::
+mini_chest_3.png::CompressedTexture2D::9034465228863076089::1683395094::1683395095::1::::<><>::
+mini_chest_4.png::CompressedTexture2D::2628515964359940355::1683395094::1683395095::1::::<><>::
+mini_chest_open_1.png::CompressedTexture2D::4338690445214518882::1683395094::1683395095::1::::<><>::
+mini_chest_open_2.png::CompressedTexture2D::7993755604237461744::1683395094::1683395095::1::::<><>::
+mini_chest_open_3.png::CompressedTexture2D::3197526119479962981::1683395095::1683395095::1::::<><>::
+mini_chest_open_4.png::CompressedTexture2D::7696076019484162607::1683395095::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/peaks/::1683395095
+peaks_1.png::CompressedTexture2D::7057013974983350565::1683395095::1683395095::1::::<><>::
+peaks_2.png::CompressedTexture2D::3621280758178473523::1683395095::1683395095::1::::<><>::
+peaks_3.png::CompressedTexture2D::907723122359913553::1683395095::1683395095::1::::<><>::
+peaks_4.png::CompressedTexture2D::1390613390047996447::1683395095::1683395095::1::::<><>::
+::res://2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/items and trap_animation/torch/::1683395095
+candlestick_1_1.png::CompressedTexture2D::9085724587648960644::1683395095::1683395095::1::::<><>::
+candlestick_1_2.png::CompressedTexture2D::8332733282510896817::1683395095::1683395095::1::::<><>::
+candlestick_1_3.png::CompressedTexture2D::8557103524060757524::1683395095::1683395095::1::::<><>::
+candlestick_1_4.png::CompressedTexture2D::2022946230016271245::1683395095::1683395095::1::::<><>::
+candlestick_2_1.png::CompressedTexture2D::559479831788116889::1683395095::1683395095::1::::<><>::
+candlestick_2_2.png::CompressedTexture2D::6762907095958669356::1683395095::1683395095::1::::<><>::
+candlestick_2_3.png::CompressedTexture2D::3993336047522077806::1683395095::1683395095::1::::<><>::
+candlestick_2_4.png::CompressedTexture2D::3873213979613650017::1683395095::1683395095::1::::<><>::
+side_torch_1.png::CompressedTexture2D::2472532398410486402::1683395095::1683395095::1::::<><>::
+side_torch_2.png::CompressedTexture2D::5377243886022770094::1683395095::1683395095::1::::<><>::
+side_torch_3.png::CompressedTexture2D::9121165385318459447::1683395095::1683395095::1::::<><>::
+side_torch_4.png::CompressedTexture2D::4262558012483345476::1683395095::1683395095::1::::<><>::
+torch_1.png::CompressedTexture2D::4347003381070169640::1683395095::1683395095::1::::<><>::
+torch_2.png::CompressedTexture2D::6174920517982773604::1683395095::1683395095::1::::<><>::
+torch_3.png::CompressedTexture2D::841053059742720879::1683395095::1683395095::1::::<><>::
+torch_4.png::CompressedTexture2D::9013332811885304739::1683395095::1683395095::1::::<><>::
+::res://Executable/::1685658575
+::res://Item/::1685580968
+AnimateBoomerang.gd::GDScript::-1::1685236742::0::1::::<>AnimatedSprite2D<>::
+Arrow.gd::GDScript::-1::1685236586::0::1::::<>Node2D<>::
+Arrow.tscn::PackedScene::861688261365286176::1685406781::0::1::::<><>::uid://db5ohscqk7vqh<>res://Item/Arrow.gd
+boomerang.tscn::PackedScene::5262781263154929037::1685406782::0::1::::<><>::uid://gj1rw4x53xff<>res://Item/boomerangMovement.gd<>res://Item/AnimateBoomerang.gd
+boomerangMovement.gd::GDScript::-1::1685580968::0::1::::<>Node2D<>::
+::res://mystic_woods_free_2.1/::1683395980
+read_me.txt::TextFile::-1::1683395980::0::1::::<><>::
+::res://mystic_woods_free_2.1/sprites/::1683395980
+::res://mystic_woods_free_2.1/sprites/characters/::1683395980
+player.png::CompressedTexture2D::6663714856305047633::1683395980::1683395980::1::::<><>::
+skeleton.png::CompressedTexture2D::1965583496083589134::1683395980::1683395980::1::::<><>::
+slime.png::CompressedTexture2D::5099210522175615837::1683395980::1683395980::1::::<><>::
+::res://mystic_woods_free_2.1/sprites/objects/::1683395980
+chest_01.png::CompressedTexture2D::6593563519147751890::1683395980::1683395980::1::::<><>::
+chest_02.png::CompressedTexture2D::6322178580132649141::1683395980::1683395980::1::::<><>::
+objects.png::CompressedTexture2D::8277978253642550389::1683395980::1683395980::1::::<><>::
+rock_in_water_01-sheet.png::CompressedTexture2D::9011842842194148466::1683395980::1683395980::1::::<><>::
+rock_in_water_01.png::CompressedTexture2D::6169616591961489026::1683395980::1683395980::1::::<><>::
+rock_in_water_02.png::CompressedTexture2D::1538316374045421547::1683395980::1683395980::1::::<><>::
+rock_in_water_03.png::CompressedTexture2D::7424402526787513071::1683395980::1683395980::1::::<><>::
+rock_in_water_04.png::CompressedTexture2D::5346709842366208651::1683395980::1683395980::1::::<><>::
+rock_in_water_05.png::CompressedTexture2D::6409725282646013048::1683395980::1683395980::1::::<><>::
+rock_in_water_06.png::CompressedTexture2D::516757644890606991::1683395980::1683395980::1::::<><>::
+::res://mystic_woods_free_2.1/sprites/particles/::1683395980
+dust_particles_01.png::CompressedTexture2D::1793448826019626194::1683395980::1683395980::1::::<><>::
+::res://mystic_woods_free_2.1/sprites/tilesets/::1683395980
+decor_8x8.png::CompressedTexture2D::1685353068239750915::1683395980::1683395980::1::::<><>::
+decor_16x16.png::CompressedTexture2D::7525517632352718510::1683395980::1683395980::1::::<><>::
+fences.png::CompressedTexture2D::2407747421903411925::1683395980::1683395980::1::::<><>::
+grass.png::CompressedTexture2D::4262589953975142335::1683395980::1683395980::1::::<><>::
+plains.png::CompressedTexture2D::2236292908476015650::1683395980::1683395980::1::::<><>::
+water1.png::CompressedTexture2D::2573697398978692542::1683395980::1683395980::1::::<><>::
+water2.png::CompressedTexture2D::1297178445870208329::1683395980::1683395980::1::::<><>::
+water3.png::CompressedTexture2D::5077842172726286029::1683395980::1683395980::1::::<><>::
+water4.png::CompressedTexture2D::4957412225993167857::1683395980::1683395980::1::::<><>::
+water5.png::CompressedTexture2D::105551544924269171::1683395980::1683395980::1::::<><>::
+water6.png::CompressedTexture2D::5196349419751084304::1683395980::1683395980::1::::<><>::
+water_decorations.png::CompressedTexture2D::4665035230765913037::1683395980::1683395980::1::::<><>::
+water_lillies.png::CompressedTexture2D::4918487775328657171::1683395980::1683395980::1::::<><>::
+::res://mystic_woods_free_2.1/sprites/tilesets/floors/::1683395980
+carpet.png::CompressedTexture2D::1403740596056061091::1683395980::1683395980::1::::<><>::
+flooring.png::CompressedTexture2D::6939571283347509506::1683395980::1683395980::1::::<><>::
+wooden.png::CompressedTexture2D::5419503196677077632::1683395980::1683395980::1::::<><>::
+::res://mystic_woods_free_2.1/sprites/tilesets/walls/::1683395980
+walls.png::CompressedTexture2D::7765802650360870208::1683395980::1683395980::1::::<><>::
+wooden_door.png::CompressedTexture2D::3054944047982139197::1683395980::1683395980::1::::<><>::
+wooden_door_b.png::CompressedTexture2D::8455407107799648091::1683395980::1683395980::1::::<><>::
+::res://Player/::1686368257
+player.gd::GDScript::-1::1685387786::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::5333297594333087205::1686368257::0::1::::<><>::res://Player/player.gd<>uid://c167n7cwvkjvd
+::res://Shikashi's Fantasy Icons Pack v2/::1683395116
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/::1685234521
+#1 - Transparent Icons.png::CompressedTexture2D::441322663322306923::1683395116::1683395116::1::::<><>::
+#2 - Transparent Icons & Drop Shadow.png::CompressedTexture2D::1342901300545739143::1683395116::1683395116::1::::<><>::
+Background 1a.png::CompressedTexture2D::973117616053762282::1683395116::1683395116::1::::<><>::
+Background 1b.png::CompressedTexture2D::4118784119096087987::1683395116::1683395116::1::::<><>::
+Background 2.png::CompressedTexture2D::3801923838476658369::1683395116::1683395116::1::::<><>::
+BG 3a.png::CompressedTexture2D::9115054885636889210::1683395116::1683395116::1::::<><>::
+BG 3b.png::CompressedTexture2D::1093992165611519034::1683395116::1683395116::1::::<><>::
+BG 3c.png::CompressedTexture2D::4576488650647972966::1683395116::1683395116::1::::<><>::
+BG 4a.png::CompressedTexture2D::8724540522269289806::1683395116::1683395116::1::::<><>::
+BG 4b.png::CompressedTexture2D::8059687984306254367::1683395116::1683395116::1::::<><>::
+BG 5.png::CompressedTexture2D::7621365923640581770::1683395116::1683395116::1::::<><>::
+BG 6.png::CompressedTexture2D::8327442289645306598::1683395116::1683395116::1::::<><>::
+BG 7.png::CompressedTexture2D::1042473863532701962::1683395116::1683395116::1::::<><>::
+BG 8.png::CompressedTexture2D::8805173441955903387::1683395116::1683395116::1::::<><>::
+BG 9.png::CompressedTexture2D::4438516829093448945::1683395116::1683395116::1::::<><>::
+BG 10.png::CompressedTexture2D::2797492916240410727::1683395116::1683395116::1::::<><>::
+BG 11.png::CompressedTexture2D::8164683547095011235::1683395116::1683395116::1::::<><>::
+Shikashi's Fantasy Icons Pack.txt::TextFile::-1::1683395116::0::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/mystic_woods_free_2.1/::1683395881
+read_me.txt::TextFile::-1::1683395881::0::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/mystic_woods_free_2.1/sprites/::1683395792
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/mystic_woods_free_2.1/sprites/characters/::1683395881
+player.png::CompressedTexture2D::4709909624665426643::1683395881::1683395793::1::::<><>::
+skeleton.png::CompressedTexture2D::5119680487038689156::1683395881::1683395793::1::::<><>::
+slime.png::CompressedTexture2D::6527899005732557544::1683395881::1683395793::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/mystic_woods_free_2.1/sprites/objects/::1683395881
+chest_01.png::CompressedTexture2D::664401779530373494::1683395881::1683395793::1::::<><>::
+chest_02.png::CompressedTexture2D::1099137448160032712::1683395881::1683395793::1::::<><>::
+objects.png::CompressedTexture2D::3972818783662879126::1683395881::1683395793::1::::<><>::
+rock_in_water_01-sheet.png::CompressedTexture2D::2570449674017847589::1683395881::1683395793::1::::<><>::
+rock_in_water_01.png::CompressedTexture2D::5034672199628348362::1683395881::1683395793::1::::<><>::
+rock_in_water_02.png::CompressedTexture2D::4211013070338017408::1683395881::1683395793::1::::<><>::
+rock_in_water_03.png::CompressedTexture2D::5761189715771838091::1683395881::1683395793::1::::<><>::
+rock_in_water_04.png::CompressedTexture2D::1851280679434148167::1683395881::1683395793::1::::<><>::
+rock_in_water_05.png::CompressedTexture2D::662917096488292413::1683395881::1683395793::1::::<><>::
+rock_in_water_06.png::CompressedTexture2D::5519005883568211785::1683395881::1683395793::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/mystic_woods_free_2.1/sprites/particles/::1683395881
+dust_particles_01.png::CompressedTexture2D::7380541578760065823::1683395881::1683395793::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/mystic_woods_free_2.1/sprites/tilesets/::1683395882
+decor_8x8.png::CompressedTexture2D::6571869557805658819::1683395881::1683395793::1::::<><>::
+decor_16x16.png::CompressedTexture2D::1656117272960688310::1683395881::1683395793::1::::<><>::
+fences.png::CompressedTexture2D::6434270967887767488::1683395881::1683395793::1::::<><>::
+grass.png::CompressedTexture2D::4308667968438908383::1683395881::1683395793::1::::<><>::
+plains.png::CompressedTexture2D::2066385316081545800::1683395881::1683395793::1::::<><>::
+water1.png::CompressedTexture2D::7046295960217335183::1683395881::1683395793::1::::<><>::
+water2.png::CompressedTexture2D::3440039000397706863::1683395881::1683395793::1::::<><>::
+water3.png::CompressedTexture2D::8526586534046109505::1683395882::1683395793::1::::<><>::
+water4.png::CompressedTexture2D::94142134106031514::1683395882::1683395793::1::::<><>::
+water5.png::CompressedTexture2D::6505309677020821492::1683395882::1683395793::1::::<><>::
+water6.png::CompressedTexture2D::416466683635793398::1683395882::1683395793::1::::<><>::
+water_decorations.png::CompressedTexture2D::3461531951236556940::1683395882::1683395793::1::::<><>::
+water_lillies.png::CompressedTexture2D::3773439662691349974::1683395882::1683395793::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/mystic_woods_free_2.1/sprites/tilesets/floors/::1683395881
+carpet.png::CompressedTexture2D::5487925326830364353::1683395881::1683395793::1::::<><>::
+flooring.png::CompressedTexture2D::8482316882691109150::1683395881::1683395793::1::::<><>::
+wooden.png::CompressedTexture2D::4511000423816509400::1683395881::1683395793::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/mystic_woods_free_2.1/sprites/tilesets/walls/::1683395881
+walls.png::CompressedTexture2D::2609416227897156273::1683395881::1683395793::1::::<><>::
+wooden_door.png::CompressedTexture2D::4680272049989778803::1683395881::1683395793::1::::<><>::
+wooden_door_b.png::CompressedTexture2D::2998801453291543345::1683395881::1683395793::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack/::1685234521
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack/Shikashi's Fantasy Icons Pack/::1685234521
+#1 - Transparent Icons.png::CompressedTexture2D::4156677953846444035::1685234521::1685234521::1::::<><>::
+#2 - Transparent & Drop Shadow.png::CompressedTexture2D::2294659167686369482::1685234521::1685234521::1::::<><>::
+Background 1a.png::CompressedTexture2D::7309636361901251928::1685234521::1685234521::1::::<><>::
+Background 1b.png::CompressedTexture2D::8388823400508443800::1685234521::1685234521::1::::<><>::
+Background 2.png::CompressedTexture2D::3465599633583412795::1685234521::1685234521::1::::<><>::
+Background 2a.png::CompressedTexture2D::4742260400338497682::1685234521::1685234521::1::::<><>::
+Background 2b.png::CompressedTexture2D::5645149395452519003::1685234521::1685234521::1::::<><>::
+Background 2c.png::CompressedTexture2D::2093882245544376771::1685234521::1685234521::1::::<><>::
+Background 3a.png::CompressedTexture2D::1002430943362403241::1685234521::1685234521::1::::<><>::
+Background 3b.png::CompressedTexture2D::8470573163606487::1685234521::1685234521::1::::<><>::
+Background 4.png::CompressedTexture2D::2279712570616391243::1685234521::1685234521::1::::<><>::
+Background 5.png::CompressedTexture2D::4201773452275886501::1685234521::1685234521::1::::<><>::
+Background 6.png::CompressedTexture2D::4445544864135225047::1685234521::1685234521::1::::<><>::
+Background 7.png::CompressedTexture2D::5464288703085356404::1685234521::1685234521::1::::<><>::
+Background 8.png::CompressedTexture2D::688962159592315304::1685234521::1685234521::1::::<><>::
+Background 9.png::CompressedTexture2D::4234930001094492631::1685234521::1685234521::1::::<><>::
+Background 10.png::CompressedTexture2D::3472947536544938554::1685234521::1685234521::1::::<><>::
+Shikashi's Fantasy Icons Pack.txt::TextFile::-1::1685234521::0::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/sprites/::1683395891
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/sprites/characters/::1683395891
+player.png::CompressedTexture2D::4057345929020327762::1683395891::1683395891::1::::<><>::
+skeleton.png::CompressedTexture2D::964771961609548393::1683395891::1683395891::1::::<><>::
+slime.png::CompressedTexture2D::1653556540256341439::1683395891::1683395891::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/sprites/objects/::1683395891
+chest_01.png::CompressedTexture2D::9041996615388190039::1683395891::1683395891::1::::<><>::
+chest_02.png::CompressedTexture2D::7196387850328672939::1683395891::1683395891::1::::<><>::
+objects.png::CompressedTexture2D::327566921407765521::1683395891::1683395891::1::::<><>::
+rock_in_water_01-sheet.png::CompressedTexture2D::8226010865284103417::1683395891::1683395891::1::::<><>::
+rock_in_water_01.png::CompressedTexture2D::2207447990959887148::1683395891::1683395891::1::::<><>::
+rock_in_water_02.png::CompressedTexture2D::1475448694874451331::1683395891::1683395891::1::::<><>::
+rock_in_water_03.png::CompressedTexture2D::5223207661601295928::1683395891::1683395891::1::::<><>::
+rock_in_water_04.png::CompressedTexture2D::4205094567195645378::1683395891::1683395891::1::::<><>::
+rock_in_water_05.png::CompressedTexture2D::5319336686231966326::1683395891::1683395891::1::::<><>::
+rock_in_water_06.png::CompressedTexture2D::1313745684718810884::1683395891::1683395891::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/sprites/particles/::1685234469
+dust_particles_01.png::CompressedTexture2D::3866970944302338604::1683395891::1683395891::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/sprites/particles/Shikashi's Fantasy Icons Pack/::1685234469
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/sprites/particles/Shikashi's Fantasy Icons Pack/Shikashi's Fantasy Icons Pack/::1685234470
+#1 - Transparent Icons.png::CompressedTexture2D::6355428449415353352::1685234469::1685234470::1::::<><>::
+#2 - Transparent & Drop Shadow.png::CompressedTexture2D::3703990163787279335::1685234469::1685234470::1::::<><>::
+Background 1a.png::CompressedTexture2D::7243900497957483893::1685234469::1685234470::1::::<><>::
+Background 1b.png::CompressedTexture2D::2230243126666016531::1685234469::1685234470::1::::<><>::
+Background 2.png::CompressedTexture2D::6679627091034020412::1685234469::1685234470::1::::<><>::
+Background 2a.png::CompressedTexture2D::8101618373223621596::1685234469::1685234470::1::::<><>::
+Background 2b.png::CompressedTexture2D::4384921446450120056::1685234469::1685234470::1::::<><>::
+Background 2c.png::CompressedTexture2D::7908172998424277026::1685234469::1685234470::1::::<><>::
+Background 3a.png::CompressedTexture2D::6127450805126916991::1685234469::1685234470::1::::<><>::
+Background 3b.png::CompressedTexture2D::5055490398069246551::1685234469::1685234470::1::::<><>::
+Background 4.png::CompressedTexture2D::4550739876871985381::1685234469::1685234470::1::::<><>::
+Background 5.png::CompressedTexture2D::1311976335197648844::1685234469::1685234470::1::::<><>::
+Background 6.png::CompressedTexture2D::2253870254392158219::1685234469::1685234470::1::::<><>::
+Background 7.png::CompressedTexture2D::6804845586665203598::1685234469::1685234470::1::::<><>::
+Background 8.png::CompressedTexture2D::4670904904548080367::1685234469::1685234470::1::::<><>::
+Background 9.png::CompressedTexture2D::8417694225677163958::1685234469::1685234470::1::::<><>::
+Background 10.png::CompressedTexture2D::9109097250732853104::1685234469::1685234470::1::::<><>::
+Shikashi's Fantasy Icons Pack.txt::TextFile::-1::1685234469::0::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/sprites/tilesets/::1683395891
+decor_8x8.png::CompressedTexture2D::5400342945613907520::1683395891::1683395891::1::::<><>::
+decor_16x16.png::CompressedTexture2D::1073944211974233521::1683395891::1683395891::1::::<><>::
+fences.png::CompressedTexture2D::5173506196085753405::1683395891::1683395891::1::::<><>::
+grass.png::CompressedTexture2D::7981693069146301651::1683395891::1683395891::1::::<><>::
+plains.png::CompressedTexture2D::6034599565891522872::1683395891::1683395891::1::::<><>::
+water1.png::CompressedTexture2D::4604491487101535414::1683395891::1683395891::1::::<><>::
+water2.png::CompressedTexture2D::1498282785962008966::1683395891::1683395891::1::::<><>::
+water3.png::CompressedTexture2D::8706212775838575215::1683395891::1683395891::1::::<><>::
+water4.png::CompressedTexture2D::3325346602028429902::1683395891::1683395891::1::::<><>::
+water5.png::CompressedTexture2D::3406972599325813184::1683395891::1683395891::1::::<><>::
+water6.png::CompressedTexture2D::777170393660087281::1683395891::1683395891::1::::<><>::
+water_decorations.png::CompressedTexture2D::8159686675548634169::1683395891::1683395891::1::::<><>::
+water_lillies.png::CompressedTexture2D::6329429950645273790::1683395891::1683395891::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/sprites/tilesets/floors/::1683395891
+carpet.png::CompressedTexture2D::879126580694092371::1683395891::1683395891::1::::<><>::
+flooring.png::CompressedTexture2D::5965636495063662711::1683395891::1683395891::1::::<><>::
+wooden.png::CompressedTexture2D::776987889383239756::1683395891::1683395891::1::::<><>::
+::res://Shikashi's Fantasy Icons Pack v2/Shikashi's Fantasy Icons Pack v2/sprites/tilesets/walls/::1683395891
+walls.png::CompressedTexture2D::4201522066869525076::1683395891::1683395891::1::::<><>::
+wooden_door.png::CompressedTexture2D::3431788288484888752::1683395891::1683395891::1::::<><>::
+wooden_door_b.png::CompressedTexture2D::5967642025442500828::1683395891::1683395891::1::::<><>::
